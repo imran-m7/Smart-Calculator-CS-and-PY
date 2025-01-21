@@ -1,4 +1,4 @@
-# Smart-Calculator-CS-and-PY
+# Smart-Calculator-JSON
 
 ## Description
 The Smart Calculator is an advanced application designed for performing various mathematical calculations efficiently. Implemented in both C# and Python, it offers a wide range of features, including basic arithmetic operations, square root calculations, and a comprehensive history of previous calculations saved in a JSON file. This project emphasizes accuracy, user-friendliness, and robust error handling to enhance the user's experience.
