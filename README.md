@@ -28,29 +28,30 @@ The primary goal of the Smart Calculator is to provide a reliable and easy-to-us
 
 1. Verify Prerequisites
 
-    For C#: Ensure you have Visual Studio installed.
+   For C#: Ensure you have Visual Studio installed.
    
-    For Python: Ensure Python 3.x is installed, along with any required libraries like json (pre-installed with Python).
-    Download Files
+   For Python: Ensure Python 3.x is installed, along with any required libraries like json (pre-installed with Python).
+   
+   Download Files
 
-    C# Implementation: SmartCalculator.cs
-    Python Implementation: smart_calculator.py
+   C# Implementation: SmartCalculator.cs
+   
+   Python Implementation: smart_calculator.py
+   
 2. Run the Program
-C#:
-Open the SmartCalculator.cs file in Visual Studio.
-Run the program.
-Python:
-Open a terminal and navigate to the directory containing smart_calculator.py.
-Run the program using python smart_calculator.py.
-JSON File Management
 
-Both versions save calculation history to a JSON file.
-The C# version saves the file to the specified path:
-C:\Users\a\source\repos\homework\homework\bin\Debug\section_C_task_1.json
-The Python version creates a similar JSON file in the current working directory if none exists.
-Enjoy the Features
+   C#: Open the smartCalculator.cs file in Visual Studio. Run the program.
+   
+   Python: Open a terminal and navigate to the directory containing smartCalculator.py. Run the program using python smartCalculator.py.
+   
+3. JSON File Management
 
-Perform calculations.
-View history.
-Explore and learn from the JSON history file.
-This project combines practicality with programming education, providing a robust calculator solution while demonstrating file handling and JSON data persistence across two programming languages.
+   Both versions save calculation history to a JSON file. They save the file to the specified path, creating a JSON file in it, if none exists.
+   
+4. Enjoy the Features
+    
+   Perform calculations.
+   
+   View history.
+   
+   Explore and learn from the JSON history file.
