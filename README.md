@@ -50,8 +50,4 @@ The primary goal of the Smart Calculator is to provide a reliable and easy-to-us
    
 4. Enjoy the Features
     
-   Perform calculations.
-   
-   View history.
-   
-   Explore and learn from the JSON history file.
+   Perform calculations. View history. Explore and learn from the JSON history file.
